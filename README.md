@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BakrAlqassab
+- 👋 Hi, I’m @Bakr Al-Qassab
 - 👀 I’m interested in web Development & Front-end & Back-end & full-stack fields
 - 🌱 I’m currently implememting projects in js & React & Node.js (Express) & with various types of DB
 
