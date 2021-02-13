@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BakrAlqassab
-- 👀 I’m interested in web Development & Front-end & Back-end & full-stack
-- 🌱 I’m currently implememting projects in js & React & Node.js
+- 👀 I’m interested in web Development & Front-end & Back-end & full-stack fields
+- 🌱 I’m currently implememting projects in js & React & Node.js (Express) & differents DB
 
 - 📫 How to reach me => 
 Email : alqassab31@gmail.com , 
