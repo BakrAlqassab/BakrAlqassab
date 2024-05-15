@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bakr Al-Qassab
-- 👀 I’m interested in web Development & Front-end & Back-end & full-stack fields
-- 🌱 I’m currently implememting projects in js & React & Node.js (Express) & with various types of DB
+- 👀 I’m a Software Engineer & Front-end & Back-end & full-stack
+- 🌱 I’m currently implementing projects in js,Vue,React, Node.js (Express) & with various types of DB
 
 - 📫 How to reach me => 
 Email : alqassab31@gmail.com , 
