@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Bakr Al-Qassab
+- 👋 Hi, I’m Bakr Al-Qassab
 - 👀 I’m a Software Engineer & Front-end & Back-end & full-stack
-- 🌱 I’m currently implementing projects in js,Vue,React, Node.js (Express) & with various types of DB
+- 🌱 I’m currently implementing projects in JS, Vue, React, Node.js (Express) & various types of DB
 
 - 📫 How to reach me => 
-Email : alqassab31@gmail.com , 
+Email: alqassab31@gmail.com, 
 mobile:+358413195038
 
 <!---
