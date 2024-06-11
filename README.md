@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bakr Al-Qassab
-- 👀 I’m a Software Engineer & Front-end & Back-end & full-stack
+- 👀 I’m a Software Developer & Front-end & full-stack
 - 🌱 I’m currently implementing projects in JS, Vue, React, Node.js (Express) & various types of DB
 
 - 📫 How to reach me => 
