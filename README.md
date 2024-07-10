@@ -9,6 +9,10 @@ I am eager to contribute my skills and continue to drive success through cutting
 Applications: 
 
 - **Airbnb Clone** - nextJS  https://github.com/BakrAlqassab/airbnb-clone-nextjs
+- ** face Recognition - React **  https://github.com/BakrAlqassab/facerecognization
+- ** Apple E-commerce - JS **  https://bakralqassab.github.io/Apple-eCommerce/
+- 
+
 
 
 
