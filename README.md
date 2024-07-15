@@ -14,7 +14,7 @@ Applications:
 - **Apple E-commerce**  https://bakralqassab.github.io/Apple-eCommerce/
 - **Vue Weather**       https://github.com/BakrAlqassab/vue_weather
 
-  **And more >>> **  https://github.com/BakrAlqassab?tab=repositories
+- **And more >>>**  https://github.com/BakrAlqassab?tab=repositories
 
 
 
