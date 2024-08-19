@@ -8,7 +8,7 @@
 
 Applications: 
 
-- **Car Hub**   https://carhub-nextjs-one.vercel.app/
+- **Car Hub**   https://carhub.bakralqassab.fi/
 - **Airbnb Clone**  https://github.com/BakrAlqassab/airbnb-clone-nextjs
 - **face Recognition**  https://github.com/BakrAlqassab/facerecognization
 - **Apple E-commerce**  https://bakralqassab.github.io/Apple-eCommerce/
