@@ -2,7 +2,7 @@
 -  I specialize as a Software Developer
 🌐 🗣️ FI, EN, AR
 
-   I am eager to contribute my skills and continue to drive success through cutting-edge technological solutions. which makes me as an ideal candidate for your next project
+   I am eager to contribute my skills and continue to drive success through cutting-edge technological solutions.
 
 - 🌱 I’m currently implementing projects in JS, React, React-Native, Vue, Node.js (Express) & various types of DB
 
